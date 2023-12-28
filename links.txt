@@ -1,0 +1,7 @@
+links
+
+proposal slides : https://www.canva.com/design/DAFSSHv0cIU/zLaALi5omNSnwF7Xhkn2_A/edit
+
+document : https://docs.google.com/document/d/1oISHsvKe_Aj-OwJcBJBIprSDTwKm_FcmFf-Z3w-skjY/edit#heading=h.oe70nmkpmlr0
+
+reference : https://www.kaggle.com/code/sixteenpython/machine-learning-with-iris-dataset

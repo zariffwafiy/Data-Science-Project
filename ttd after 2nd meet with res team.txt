@@ -1,0 +1,11 @@
+things to consider:
+* water content might be affected by the duration of honey in pot
+* some pot are not authentic / original (plastic / polymer), might affect water content
+
+future work:
+classify by location
+data augmentation to improve accuracy 
+classify purity if have adultered samples 
+impute based on different central statistics, (set to 30, 31, 32)
+correlation between pF -> TPC, TFC
+correlation between water content -> ABTS, FRAP & TPC, TFC
